@@ -4,3 +4,4 @@ This repository includes 3 files:
 1. index.html is where the javascript code and styles code of Mapbox are called. It also calls the mapanimation.js file
 2. mapanimation.js this file has the formulas that allow the marker in the map to move throughout the bus stations
 3. styles.css this file has the styles of the html file
+< img src="bostonmap.png" />
