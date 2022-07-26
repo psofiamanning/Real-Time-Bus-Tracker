@@ -5,4 +5,4 @@ This repository includes 3 files:
 2. mapanimation.js this file has the formulas that allow the marker in the map to move throughout the bus stations
 3. styles.css this file has the styles of the html file
 < img src="bostonmap.png" />
-<img src="bostonmap.png" width="600" height="600">
+<img src="bostonmap.png" width="900" height="600">
