@@ -1,4 +1,8 @@
 # Real-Time-Bus-Tracker
+
+<img src="bostonmap.png" width="450" height="300">
+
+
 ## Description
 By using the free API that Mapbox provides to get access to maps, a map of Boston appears. A a marker is added that moves along the bus stations that go from MIT to Harvard. In order to make the marker move, a button to initiate the action is also included at the top of the page, called "Show stops between MIT and Harvard".
 
@@ -14,4 +18,4 @@ This repository includes 3 files:
 3. A box showing the name of the bus stop, as it passes by each one of them (October 2022)
 
 
-<img src="bostonmap.png" width="900" height="600">
+
